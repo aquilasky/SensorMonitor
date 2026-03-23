@@ -1,0 +1,30 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual environments and compiled packages
+SensorMonitor/
+dist/
+base_library.zip
+
+# Build artifacts
+build.py
+build.bat
+SensorMonitorv1.zip
+SensorMonitor_SingleFileVer.exe
+dist/
+*.log
+debug.log
+
+# User configuration (contains serial port settings)
+config.ini
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
